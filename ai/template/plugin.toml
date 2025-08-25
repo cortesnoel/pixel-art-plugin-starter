@@ -1,0 +1,5 @@
+# Properties for your plugin that can be read using `PluginConfig`.
+
+[plugin]
+
+debug = false
